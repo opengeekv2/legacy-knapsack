@@ -1,0 +1,12 @@
+/workspaces/legacy-knapsack/Knapsack/bin/Debug/net8.0/Knapsack.deps.json
+/workspaces/legacy-knapsack/Knapsack/bin/Debug/net8.0/Knapsack.dll
+/workspaces/legacy-knapsack/Knapsack/bin/Debug/net8.0/Knapsack.pdb
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/Knapsack.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/Knapsack.AssemblyInfoInputs.cache
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/Knapsack.AssemblyInfo.cs
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/Knapsack.csproj.CoreCompileInputs.cache
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/Knapsack.sourcelink.json
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/Knapsack.dll
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/refint/Knapsack.dll
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/Knapsack.pdb
+/workspaces/legacy-knapsack/Knapsack/obj/Debug/net8.0/ref/Knapsack.dll
